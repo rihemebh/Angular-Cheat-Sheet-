@@ -21,11 +21,16 @@
 
 ## Angular
 
-Angular is a Js Framework that supports multiple laguages like ES5, Typescript , dart ... <br />
-- SPA (Single Page application):
-The single page application is a web application or website that interacts with the user by dynamically rewriting the current page, rather than loading entire new pages from the server.
+Angular is a TypeScript-based framework designed for developing:
 
-- Modular , fast , component based
+- Single Page Applications (SPAs): These are web applications or websites that offer a seamless user experience by dynamically updating the current page in response to user interactions, instead of reloading entire pages from the server.
+
+- It is known for its modularity, speed, and component-based architecture.
+
+
+
+
+
 
 
 
